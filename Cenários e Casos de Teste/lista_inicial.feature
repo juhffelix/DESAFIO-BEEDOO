@@ -3,7 +3,7 @@
   Contexto:
     Dado que o usuário está na página inicial
     
-  Cenário: 
+  Cenário: Lista de Cursos
     Então o usuário deve ver a lista de cursos cadastrados
     E cada curso deve exibir informações como Nome do Curso, Descrição do Curso, Nome do Instrutor, Imagem da Capa, Data de Início, Data de Término, Número de Vagas, e Tipo de Curso
     E devo ver as opção de "Excluir" para cada curso
