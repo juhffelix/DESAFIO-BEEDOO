@@ -9,3 +9,11 @@ Este documento fornece uma visão geral dos testes planejados para o módulo de 
 ### Vídeo da plataforma
 
 https://drive.google.com/file/d/1C64r6BOp3PJVe61pYN-oJnZ51v3d3cCn/view?usp=sharing
+
+### Planilha de Controle de Testes
+
+https://docs.google.com/spreadsheets/d/1IEKHe_BNbR6YpHt3jExyKqQSX1mH3GKwbsRFj2E6tAE/edit?usp=sharing
+
+### Evidências
+
+https://drive.google.com/file/d/1vDolnV25GTH434mHbxzJZCdIq9ms5lPQ/view?usp=sharing
