@@ -1,0 +1,9 @@
+Requisitos de Validação e Mensagens de Erro
+•	Pergunta: Quais são as regras de validação para cada campo? Que mensagens de erro devem ser exibidas para entradas inválidas?
+•	Importância: Garante que os testes cubram todas as validações e que os usuários recebam feedback claro.
+Comportamento em Caso de Erro
+•	Pergunta: Como o sistema deve reagir se ocorrer um erro interno ou falha na comunicação? Há uma estratégia definida para tratamento de erros?
+•	Importância: Verifica se o sistema lida bem com problemas e mantém uma boa experiência para o usuário.
+Controle de Acesso e Permissões
+•	Pergunta: Quem pode acessar e usar a funcionalidade de cadastro de cursos? Existem diferentes permissões para diferentes tipos de usuários?
+•	Importância: Assegura que somente usuários autorizados possam acessar e modificar dados sensíveis.

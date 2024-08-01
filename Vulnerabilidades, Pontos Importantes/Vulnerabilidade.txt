@@ -1,0 +1,10 @@
+Vulnerabilidades Identificadas:
+1.	Injeção de Código
+2.	Validação de dados insuficientes
+3.	Falta de Autorização e Autenticação
+
+Testes para Identificar possíveis vulnerabilidades:
+1.	Testar Validação de Entrada e Sanitização
+2.	Análise de Código Estático e/ou Dinamico
+3.	Pentesting
+4.	Verificar gestão de sessões e cookies
